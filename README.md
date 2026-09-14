@@ -14,6 +14,6 @@ bash
 pip install numpy matplotlib
 Ejecución
 bash
-python3 FC.py
+python3 1_a.py
 
 Genera la tabla de residuos por consola y la gráfica ortogonalidad_residuo.png.
